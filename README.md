@@ -21,7 +21,7 @@ conda activate trainer-fiesta
 
 >[!NOTE]
 >Before running, ensure that the configuration file is set up properly.
->Edit the [configuration file](https://github.com/emmacyberia/trainer-fiesta/blob/env/trainer-fiesta/core/config.py) to match your desired settings.
+>Edit the [configuration file](https://github.com/emmacyberia/trainer-fiesta/blob/main/trainer-fiesta/core/config.py) to match your desired settings.
 
 ### Run trainer-fiesta
 
