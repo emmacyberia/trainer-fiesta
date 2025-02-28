@@ -13,7 +13,7 @@ git clone https://github.com/emmacyberia/trainer-fiesta.git
 cd trainer-fiesta
 
 # create a conda environment and install dependencies
-conda env create -f environment.yml
+conda env create --name trainer-fiesta -f environment.yml
 
 # activate the environment
 conda activate trainer-fiesta
